@@ -1,0 +1,76 @@
+
+
+[
+  {
+    "filterMap": {
+      "Type": [
+        "CSGO_Type_Knife_Unlimited匕首",
+        "CSGO_Type_Pistol_Unlimited手枪",
+        "CSGO_Type_Rifle_Unlimited步枪",
+        "CSGO_Type_SMG_Unlimited微型冲锋枪",
+        "CSGO_Type_Shotgun_Unlimited霰弹枪",
+        "CSGO_Type_Machinegun_Unlimited机枪",
+        "Type_Hands_Unlimited手套",
+        "CSGO_Tool_Sticker_Unlimited印花"
+      ]
+    },
+    "gameId": 730,
+    "listSortType": 0,
+    "listType": 10,
+    "maxPrice": "0.02",
+    "pageIndex": 1,
+    "pageSize": 100,
+    "sortType": 0,
+    "stickerAbrade": 0,
+    "stickersIsSort": false,
+    "Sessionid": "ZjC6HLtrMjMDANQh4YfDPRYR"
+  },
+  {
+    "filterMap": {
+      "Quality": [
+        "Quality_Unlimited"
+      ],
+      "Exterior": [
+        "WearCategory0崭新出厂",
+        "WearCategory1略有磨损",
+        "WearCategory2久经沙场",
+        "WearCategory3破损不堪",
+        "WearCategory4 战痕累累"
+      ]
+    },
+    "gameId": 730,
+    "listSortType": 0,
+    "listType": 10,
+    "maxPrice": "0.02",
+    "pageIndex": 1,
+    "pageSize": 100,
+    "sortType": 0,
+    "stickerAbrade": 0,
+    "stickersIsSort": false,
+    "Sessionid": "ZjC6HLtrMjMDANQh4YfDPRYR"
+  },
+  {
+    "filterMap": {
+      "Type": [
+        "CSGO_Type_Pistol_Unlimited",
+        "CSGO_Type_Rifle_Unlimited",
+        "CSGO_Type_SMG_Unlimited",
+        "CSGO_Type_Shotgun_Unlimited",
+        "CSGO_Type_Machinegun_Unlimited"
+      ],
+      "Quality": [
+        "Quality_Unlimited"
+      ]
+    },
+    "gameId": 730,
+    "listSortType": 0,
+    "listType": 10,
+    "maxPrice": "0.02",
+    "pageIndex": 1,
+    "pageSize": 100,
+    "sortType": 0,
+    "stickerAbrade": 0,
+    "stickersIsSort": false,
+    "Sessionid": "ZjC6HLtrMjMDANQh4YfDPRYR"
+  }
+]
